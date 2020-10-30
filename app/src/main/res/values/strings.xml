@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Cloche</string>
+    <string name="bells_icon">Bells icon</string>
 </resources>
